@@ -1,4 +1,4 @@
-# Author : Nguinabe Josue
+# PCA Implementation form Scratch
 
 ## Background
 
@@ -67,4 +67,4 @@ where ${I}$ is the identity matrix of the same size as ${A}$. Solving for $\lamb
 
 4 - Run the Python script named pca.py
 
-#################################### Thanks ######################################
+#################################### Author : N-Josue ######################################
